@@ -7,7 +7,7 @@
 
 
 ## 
- <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px>
+ <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 400px>
 
 👩‍💻 I'm currently a student;
 
