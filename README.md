@@ -7,8 +7,10 @@
 
 
 ## 
-<br>
- <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px>
+<div align="center">
+ <img  src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="500" height="400">
+</div>
+
 
 👩‍💻 I'm currently a student;
 
