@@ -8,7 +8,7 @@
 
 ## 
 <div align="center">
- <img  src="./thoughtworks-gif_dribbble.gif" width="500" height="400">
+ <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 </div>
 
 
