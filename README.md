@@ -12,9 +12,9 @@
 </div>
 
 
-👩‍💻 I'm currently a student;
+👩‍💻 I'm currently a EC student;
 
-🧠 I'm currently learning Web Development & Cyber Security;
+🧠 I'm currently learning Web Development;
 
 🤔 I'm looking for help with Web Development;
 
@@ -30,4 +30,4 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="www.buymeacoffee.com/arunsadalgekar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/arunsadalgekar" /></a></p><br><br>
+<a href="https://www.buymeacoffee.com/arunsadalgekar" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/arunsadalgekar" /> </a>
