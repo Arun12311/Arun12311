@@ -12,7 +12,7 @@
 </div>
 
 
-👩‍💻 I'm currently a EC student;
+👩‍💻 I'm currently a CS student;
 
 🧠 I'm currently learning Web Development;
 
