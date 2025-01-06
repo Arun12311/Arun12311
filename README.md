@@ -4,7 +4,7 @@
  <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 </div>
 
-👩‍💻 I'm currently a 2nd Year CS student;
+👩‍💻 I'm currently a 3rd Year CS student;
 
 🧠 I'm currently learning Full Stack Web Development;
 
